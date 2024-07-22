@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## Analyse de données
-- Analyse de données électorales en France : [Rapport d'analyse électorales](https://app.powerbi.com/links/Pz85C5f5eD?ctid=27a58b63-8684-40f7-b737-c9a534e65745&pbi_source=linkShare)
+- Analyse de données électorales en France : [Rapport d'analyse électorales](https://app.powerbi.com/links/Pz85C5f5eD?ctid=27a58b63-8684-40f7-b737-c9a534e65745&pbi_source=linkShare) et [traitement Python et visualisation Angular](https://gitlab.istic.univ-rennes1.fr/wtraloutoure/elections_data_viz_m2_miage)
 - Analyse de données de fréquentation d'archives dans la commune de Rennes : [Rapport de fréquentation d'archives](https://app.powerbi.com/links/S5tt-x_hmZ?ctid=27a58b63-8684-40f7-b737-c9a534e65745&pbi_source=linkShare) 
 ## Machine learning, IA et Deep learning
 - Analyse des sentiments de films : [Notebook et résultats](https://colab.research.google.com/drive/1WE9ep18kqnBsIr4ZBZXeviQVjgWIPwAN?usp=sharing)
